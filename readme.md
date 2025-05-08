@@ -11,3 +11,5 @@ https://codepen.io/P1N2O/pen/pyBNzX
 (Example of animated gradient background using JavaScript and CSS)
 https://codepen.io/juliangarnier/pen/gmOwJX
 （create rain/snow overlays with random motion and blur filters）
+![An image of the Coding Technique Example](readmeImages/1746701044891.jpg)
+![An image of the Coding Technique Example](readmeImages/WX20250508.png)
